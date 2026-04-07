@@ -6,7 +6,7 @@ Official support website for **Another Farm**, a cozy mobile farming game. Provi
 
 | File | Language |
 |------|----------|
-| `index.html` / `support.html` | English |
+| `index.html` | English |
 | `support-zh.html` | Chinese (中文) |
 | `support-es.html` | Spanish (Español) |
 | `support-ja.html` | Japanese (日本語) |
@@ -16,8 +16,8 @@ Privacy policy pages follow the same multilingual structure.
 ## Contents
 
 - **Contact** — Direct email support link
-- **FAQ** — Common questions covering save/sync, multi-device play, purchase restoration, and account deletion
-- **Privacy Policy** — Available in all four languages
+- **FAQ** — Common questions covering save/sync, multi-device play, purchase restoration, and crash troubleshooting
+- **Privacy Policy** — Available in four languages (`privacy.html`, `privacy-zh.html`, `privacy-es.html`, `privacy-ja.html`)
 
 ## Deployment
 
